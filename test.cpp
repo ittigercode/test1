@@ -11,6 +11,8 @@ int main(int argc, char const *argv[])
     i+=7;
     i+=8;
     i+=9;
+    i+=10;
+    i+=11;
     printf("Hello, World! %d", i);
     return 0;
 }
