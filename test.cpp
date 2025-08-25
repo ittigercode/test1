@@ -9,6 +9,8 @@ int main(int argc, char const *argv[])
     i+=5;
     i+=6;
     i+=7;
+    i+=8;
+    i+=9;
     printf("Hello, World! %d", i);
     return 0;
 }
